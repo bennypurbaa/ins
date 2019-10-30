@@ -21,6 +21,6 @@ include 'class_ig.php';
 				echo '[+] Username: '.$username.' |  Like Success'. PHP_EOL;;
 				}
 				}
-				echo '[+] Tidur selama 120 detik [+]'. PHP_EOL;;
-				sleep(120);
+				echo '[+] Akan bekerja 1 menit lagi... [+]'. PHP_EOL;;
+				sleep(60);
                 }
