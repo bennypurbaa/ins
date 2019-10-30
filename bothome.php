@@ -3,9 +3,9 @@
 include 'class_ig.php';
 
 			$data_login = array(
-		'username' => 'username lo',
-		'csrftoken'	=> 'csrf_token lo',
-		'sessionid'	=> 'sessionid lo'
+		'username' => 'auliaahmad16',
+		'csrftoken'	=> 'O6RNF6s65tpUsrNpZiIdntsVavZl35rr',
+		'sessionid'	=> '4774411065%3AUxjfDXFFsPJo2B%3A27'
 	);
 				while(true){
 		     	        $profile = getHome($data_login);
@@ -21,6 +21,6 @@ include 'class_ig.php';
 				echo '[+] Username: '.$username.' |  Like Success'. PHP_EOL;;
 				}
 				}
-				echo '[+] Akan bekerja 1 menit lagi... [+]'. PHP_EOL;;
-				sleep(60);
+				echo '[+] Akan bekerja 1 menit 30 detik lagi... [+]'. PHP_EOL;;
+				sleep(90);
                 }
