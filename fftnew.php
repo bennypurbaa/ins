@@ -7,7 +7,7 @@ copycat();
 $u = getUsername();
 $p = getPassword();
 echo PHP_EOL;
-$text_comment = getComment('Enter your file comment here: listcomment.txt');
+$text_comment = getComment('Enter your file comment here: ');
 $getfile = file_get_contents($text_comment);
 $x = explode("|", $getfile);
 $c = count($x) -1;
