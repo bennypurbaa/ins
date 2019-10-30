@@ -3,9 +3,9 @@
 include 'class_ig.php';
 
 			$data_login = array(
-		'username' => 'auliaahmad16',
-		'csrftoken'	=> 'O6RNF6s65tpUsrNpZiIdntsVavZl35rr',
-		'sessionid'	=> '4774411065%3AUxjfDXFFsPJo2B%3A27'
+		'username' => 'your username',
+		'csrftoken'	=> 'your csrftoken',
+		'sessionid'	=> 'your sessionid'
 	);
 				while(true){
 		     	        $profile = getHome($data_login);
